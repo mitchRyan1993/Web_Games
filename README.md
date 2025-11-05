@@ -1,4 +1,4 @@
-# Web_Games
+# Roller Games
 Web prototype with multiple logic games
 
 # Game Design Project
@@ -37,3 +37,6 @@ Next steps:
 3. Begin development of the initial core games.  
 
 By focusing on flexibility and scalability early, I’ll be better positioned to add or refine features as the project evolves.
+
+
+![UML Diagram](UMLish.drawio.png)
